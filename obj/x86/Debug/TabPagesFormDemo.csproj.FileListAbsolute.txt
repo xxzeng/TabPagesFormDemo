@@ -1,0 +1,8 @@
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\bin\Debug\TabPagesFormDemo.exe
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\bin\Debug\TabPagesFormDemo.pdb
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.Form1.resources
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.Form2.resources
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.Properties.Resources.resources
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.csproj.GenerateResource.Cache
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.exe
+c:\users\skylark\documents\visual studio 2010\Projects\TabPagesFormDemo\TabPagesFormDemo\obj\x86\Debug\TabPagesFormDemo.pdb
